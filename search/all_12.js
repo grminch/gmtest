@@ -1,0 +1,17 @@
+var searchData=
+[
+  ['main_0',['main',['../sgx__token_8c.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;sgx_token.c'],['../tdx__token_8c.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;tdx_token.c'],['../base64__test_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627',1,'main(int argc, char **argv):&#160;base64_test.cpp']]],
+  ['make_5fhttp_5frequest_1',['make_http_request',['../rest_8c.html#af1cc15d408b876fca7036cff64063d91',1,'make_http_request(const char *url, const char *api_key, const char *accept, const char *request_id, const char *content_type, const char *body, char **response, int *response_length, char **response_headers, retry_config *retries):&#160;rest.c'],['../rest__test_8cpp.html#a9882f8d7e10da9b37d36b7292abf6ac9',1,'make_http_request(const char *url, const char *api_key, const char *accept, const char *request_id, const char *content_type, const char *body, char **response):&#160;rest_test.cpp']]],
+  ['max_5fats_5fcert_5fchain_5flen_2',['MAX_ATS_CERT_CHAIN_LEN',['../types_8h.html#a2fbbe381961bc0609941ed5f54040e0f',1,'types.h']]],
+  ['max_5fevidence_5flen_3',['MAX_EVIDENCE_LEN',['../types_8h.html#a72310191077ba3da17e8c69ddb5aef42',1,'types.h']]],
+  ['max_5fuser_5fdata_5flen_4',['MAX_USER_DATA_LEN',['../types_8h.html#a0eca3d8035eeb12325181658d1a7e63a',1,'types.h']]],
+  ['mock_5fadapter_5fcontext_5',['mock_adapter_context',['../structmock__adapter__context.html',1,'mock_adapter_context'],['../token__provider__mock__test_8h.html#a2df03872c6d5cd18c946532f90d7111d',1,'mock_adapter_context:&#160;token_provider_mock_test.h']]],
+  ['mock_5fadapter_5ffree_6',['mock_adapter_free',['../token__provider__test_8cpp.html#a63f2754189453c2b52e31ac0af5dd826',1,'token_provider_test.cpp']]],
+  ['mock_5fadapter_5fnew_7',['mock_adapter_new',['../token__provider__mock__test_8h.html#a9d8e10d24e501d2afe5fecd12df595b4',1,'mock_adapter_new(evidence_adapter **adapter, int eid, void *report_function):&#160;token_provider_test.cpp'],['../token__provider__test_8cpp.html#a9d8e10d24e501d2afe5fecd12df595b4',1,'mock_adapter_new(evidence_adapter **adapter, int eid, void *report_function):&#160;token_provider_test.cpp']]],
+  ['mock_5fcollect_5fevidence_8',['mock_collect_evidence',['../token__provider__mock__test_8h.html#ad136cc316837f28ffee5d921c2c0d366',1,'mock_collect_evidence(void *ctx, evidence *evidence, nonce *nonce, uint8_t *user_data, uint32_t user_data_len):&#160;token_provider_test.cpp'],['../token__provider__test_8cpp.html#ad136cc316837f28ffee5d921c2c0d366',1,'mock_collect_evidence(void *ctx, evidence *evidence, nonce *nonce, uint8_t *user_data, uint32_t user_data_len):&#160;token_provider_test.cpp']]],
+  ['mock_5fserver_2ecpp_9',['mock_server.cpp',['../mock__server_8cpp.html',1,'']]],
+  ['mock_5fserver_2eh_10',['mock_server.h',['../mock__server_8h.html',1,'']]],
+  ['mock_5fsgx_2ec_11',['mock_sgx.c',['../mock__sgx_8c.html',1,'']]],
+  ['mockserver_12',['MockServer',['../class_mock_server.html',1,'MockServer'],['../class_mock_server.html#a315c00bb7c2fd3958704e8e81d0c3015',1,'MockServer::MockServer()']]],
+  ['mockservermutex_13',['mockServerMutex',['../mock__server_8cpp.html#a3c6485c4d0f53ea1bc4eb28368f832ca',1,'mockServerMutex:&#160;mock_server.cpp'],['../token__provider__test_8cpp.html#a3c6485c4d0f53ea1bc4eb28368f832ca',1,'mockServerMutex:&#160;mock_server.cpp'],['../token__verifier__test_8cpp.html#a3c6485c4d0f53ea1bc4eb28368f832ca',1,'mockServerMutex:&#160;mock_server.cpp']]]
+];

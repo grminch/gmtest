@@ -1,0 +1,8 @@
+var searchData=
+[
+  ['validate_5fand_5fget_5fpolicy_5fmust_5fmatch_0',['validate_and_get_policy_must_match',['../api_8h.html#a475d3fa6356aa5a83582bbece97c1a48',1,'validate_and_get_policy_must_match(const char *input, bool *policy_must_match):&#160;connector.c'],['../connector_8c.html#a475d3fa6356aa5a83582bbece97c1a48',1,'validate_and_get_policy_must_match(const char *input, bool *policy_must_match):&#160;connector.c']]],
+  ['validate_5frequest_5fid_1',['validate_request_id',['../api_8h.html#af30435152db4cfa432ff2d6678253fb3',1,'validate_request_id(const char *request_id):&#160;connector.c'],['../connector_8c.html#a388ace5b87bd2f1545943f4a2df574d3',1,'validate_request_id(const char *req_id):&#160;connector.c']]],
+  ['verify_5fcrl_2',['verify_crl',['../util_8c.html#a3e93c16dc0defffc745b63d580cfaae1',1,'verify_crl(X509_CRL *crl, X509 *ca_cert):&#160;util.c'],['../util_8h.html#a2b8cdfd1248e6c5e3a692af4aa66bd32',1,'verify_crl(X509_CRL *crl, X509 *cert):&#160;util.c']]],
+  ['verify_5fjwks_5fcert_5fchain_3',['verify_jwks_cert_chain',['../util_8c.html#a29c359b298adf51ab65d4a10e5526071',1,'verify_jwks_cert_chain(jwks *jwks):&#160;util.c'],['../util_8h.html#a29c359b298adf51ab65d4a10e5526071',1,'verify_jwks_cert_chain(jwks *jwks):&#160;util.c']]],
+  ['verify_5ftoken_4',['verify_token',['../token__verifier_8h.html#a233438b391d9f951a849a20546b0fd69',1,'verify_token(token *token, char *trust_authority_base_url, char *trust_authority_jwks_data, jwt_t **parsed_token, int retry_max, int retry_wait_time):&#160;token_verifier.c'],['../token__verifier_8c.html#a062b99f68a59f62085969b71b8101b25',1,'verify_token(token *token, char *base_url, char *jwks_data, jwt_t **parsed_token, const int retry_max, const int retry_wait_time):&#160;token_verifier.c']]]
+];
