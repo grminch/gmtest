@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['a_20intel_20trust_20authority_20signed_20token_20with_20nonce_0',['To get a Intel Trust Authority signed token with Nonce',['../md__r_e_a_d_m_e.html#autotoc_md45',1,'']]],
+  ['a_20vulnerability_1',['Reporting a Vulnerability',['../md_security.html#autotoc_md52',1,'']]],
+  ['accept_5fapplication_5fjson_2',['ACCEPT_APPLICATION_JSON',['../rest_8h.html#ade3defaae6c6dc4a7b24c0282839dbb4',1,'rest.h']]],
+  ['accept_5fapplication_5fjwt_3',['ACCEPT_APPLICATION_JWT',['../rest_8h.html#a6b9395a02087ec352d8763e1eee983ba',1,'rest.h']]],
+  ['alg_4',['alg',['../structjwks.html#ae7b20767705c5e3ff736768935e3ebcd',1,'jwks']]],
+  ['and_20get_20the_20coverage_20by_20running_20coverage_20tool_5',['Build unit test and get the coverage by running coverage tool',['../md_docs_2build__ut__tests.html#autotoc_md19',1,'']]],
+  ['and_20signature_20verification_20logic_20refer_6',['For E2E token collection and signature verification logic refer',['../md__r_e_a_d_m_e.html#autotoc_md48',1,'']]],
+  ['api_2eh_7',['api.h',['../api_8h.html',1,'']]],
+  ['api_5fkey_8',['api_key',['../structtrust__authority__connector.html#ad1a40cfd8b256f9ada56603dbcc8ffc3',1,'trust_authority_connector']]],
+  ['api_5fkey_5fheader_9',['API_KEY_HEADER',['../rest_8c.html#ac3500e5e8ab18b4c4171dee28336c413',1,'rest.c']]],
+  ['api_5fkey_5fmax_5flen_10',['API_KEY_MAX_LEN',['../types_8h.html#a9390d63f1abaa55a260816196b429a3d',1,'types.h']]],
+  ['api_5furl_11',['api_url',['../structtrust__authority__connector.html#a1a75fec86d0e5ddbda824b3b0e8725d5',1,'trust_authority_connector']]],
+  ['api_5furl_5fmax_5flen_12',['API_URL_MAX_LEN',['../types_8h.html#a8ffb2ba9ff952b1e6c1f6782e02daa72',1,'types.h']]],
+  ['appraisal_5frequest_13',['appraisal_request',['../structappraisal__request.html',1,'appraisal_request'],['../appraisal__request_8h.html#a64fd5196206b7268ade21fe835a0ed78',1,'appraisal_request:&#160;appraisal_request.h']]],
+  ['appraisal_5frequest_2eh_14',['appraisal_request.h',['../appraisal__request_8h.html',1,'']]],
+  ['attribution_15',['Attribution',['../md__c_o_d_e___o_f___c_o_n_d_u_c_t.html#autotoc_md11',1,'']]],
+  ['authority_16',['To download token signing certificates from Intel Trust Authority',['../md__r_e_a_d_m_e.html#autotoc_md47',1,'']]],
+  ['authority_20c_20client_20library_17',['Intel Trust Authority C Client Library',['../md__r_e_a_d_m_e.html',1,'']]],
+  ['authority_20signed_20token_18',['To verify Intel Trust Authority signed token',['../md__r_e_a_d_m_e.html#autotoc_md46',1,'']]],
+  ['authority_20signed_20token_20with_20nonce_19',['To get a Intel Trust Authority signed token with Nonce',['../md__r_e_a_d_m_e.html#autotoc_md45',1,'']]],
+  ['aux_5fblob_20',['aux_blob',['../struct_response.html#a25d295045f01d1709818fce4e60f1dde',1,'Response']]],
+  ['azure_5ftdx_5fadapter_2ec_21',['azure_tdx_adapter.c',['../azure__tdx__adapter_8c.html',1,'']]],
+  ['azure_5ftdx_5fadapter_5fnew_22',['azure_tdx_adapter_new',['../tdx__adapter_8h.html#af11617e3768ed1cab2d343336df57ebd',1,'azure_tdx_adapter_new(evidence_adapter **adapter):&#160;azure_tdx_adapter.c'],['../azure__tdx__adapter_8c.html#af11617e3768ed1cab2d343336df57ebd',1,'azure_tdx_adapter_new(evidence_adapter **adapter):&#160;azure_tdx_adapter.c']]]
+];

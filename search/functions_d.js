@@ -1,0 +1,15 @@
+var searchData=
+[
+  ['sgx_5fadapter_5ffree_0',['sgx_adapter_free',['../sgx__adapter_8h.html#aae1cbbf5a5ae01e138d45c97f212de1b',1,'sgx_adapter_free(evidence_adapter *adapter):&#160;sgx_adapter.c'],['../sgx__adapter_8c.html#aae1cbbf5a5ae01e138d45c97f212de1b',1,'sgx_adapter_free(evidence_adapter *adapter):&#160;sgx_adapter.c']]],
+  ['sgx_5fadapter_5fnew_1',['sgx_adapter_new',['../sgx__adapter_8h.html#adb302e2e3593afd7dcf53e8e829e76fc',1,'sgx_adapter_new(evidence_adapter **adapter, int eid, void *report_function):&#160;sgx_adapter.c'],['../sgx__adapter_8c.html#adb302e2e3593afd7dcf53e8e829e76fc',1,'sgx_adapter_new(evidence_adapter **adapter, int eid, void *report_function):&#160;sgx_adapter.c']]],
+  ['sgx_5fcollect_5fevidence_2',['sgx_collect_evidence',['../sgx__adapter_8h.html#ac5e595424c0f2c9300de89ed7e185b07',1,'sgx_collect_evidence(void *ctx, evidence *evidence, nonce *nonce, uint8_t *user_data, uint32_t user_data_len):&#160;sgx_adapter.c'],['../sgx__adapter_8c.html#ac5e595424c0f2c9300de89ed7e185b07',1,'sgx_collect_evidence(void *ctx, evidence *evidence, nonce *nonce, uint8_t *user_data, uint32_t user_data_len):&#160;sgx_adapter.c']]],
+  ['sgx_5fqe_5fget_5fquote_3',['sgx_qe_get_quote',['../sgx__dcap__ql__wrapper_8h.html#a3c8e8df7faeefb4375ba1d0ab12328c3',1,'sgx_qe_get_quote(const sgx_report_t *p_app_report, uint32_t quote_size, uint8_t *p_quote):&#160;mock_sgx.c'],['../mock__sgx_8c.html#a3c8e8df7faeefb4375ba1d0ab12328c3',1,'sgx_qe_get_quote(const sgx_report_t *p_app_report, uint32_t quote_size, uint8_t *p_quote):&#160;mock_sgx.c']]],
+  ['sgx_5fqe_5fget_5fquote_5fmock_4',['sgx_qe_get_quote_mock',['../sgx__adapter__test_8cpp.html#a0a00624f3b4b9b010dd9c0ff8008dbdc',1,'sgx_adapter_test.cpp']]],
+  ['sgx_5fqe_5fget_5fquote_5fsize_5',['sgx_qe_get_quote_size',['../sgx__dcap__ql__wrapper_8h.html#a0e4070bcafa9f03039f7e14cd65469ba',1,'sgx_qe_get_quote_size(uint32_t *p_quote_size):&#160;mock_sgx.c'],['../mock__sgx_8c.html#a0e4070bcafa9f03039f7e14cd65469ba',1,'sgx_qe_get_quote_size(uint32_t *p_quote_size):&#160;mock_sgx.c']]],
+  ['sgx_5fqe_5fget_5fquote_5fsize_5fmock_6',['sgx_qe_get_quote_size_mock',['../sgx__adapter__test_8cpp.html#aa31ab1d738abae4beae61594cb97fdf8',1,'sgx_adapter_test.cpp']]],
+  ['sgx_5fqe_5fget_5ftarget_5finfo_7',['sgx_qe_get_target_info',['../sgx__dcap__ql__wrapper_8h.html#a133205a14f1ca0c7cdd38f610d0c0fb4',1,'sgx_qe_get_target_info(sgx_target_info_t *p_qe_target_info):&#160;mock_sgx.c'],['../mock__sgx_8c.html#a133205a14f1ca0c7cdd38f610d0c0fb4',1,'sgx_qe_get_target_info(sgx_target_info_t *p_qe_target_info):&#160;mock_sgx.c']]],
+  ['sgx_5fqe_5ftarget_5finfo_5ffail_5fmock_8',['sgx_qe_target_info_fail_mock',['../sgx__adapter__test_8cpp.html#a11919c298029e9744b9e4db142f6a880',1,'sgx_adapter_test.cpp']]],
+  ['sgx_5fqe_5ftarget_5finfo_5fmock_9',['sgx_qe_target_info_mock',['../sgx__adapter__test_8cpp.html#a9743052f02e2fdfe181ed775327f376f',1,'sgx_adapter_test.cpp']]],
+  ['start_10',['start',['../class_mock_server.html#a60de64d75454385b23995437f1d72669',1,'MockServer']]],
+  ['stop_11',['stop',['../class_mock_server.html#a8c528baf37154d347366083f0f816846',1,'MockServer']]]
+];
